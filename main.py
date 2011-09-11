@@ -17,8 +17,6 @@ from direct.gui.OnscreenText import OnscreenText
 from direct.actor.Actor import Actor
 import sys
 
-sys.path.append("./terrain")
-
 import terrain
 import terrain.bakery.animate_dreams_bakery
 import terrain.bakery.gpuBakery
