@@ -1,0 +1,3 @@
+[submodule "terrain"]
+	path = terrain
+	url = git@github.com:Craig-Macomber/Panda3D-Terrain-System.git
