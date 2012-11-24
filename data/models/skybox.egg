@@ -3,42 +3,42 @@
 <Comment> { "Egg laid by Chicken for Blender vR44" }
 
 <Texture> t_north.png {
-  "textures/t_north.png"
+  "data/textures/t_north.png"
   <Scalar> wrap    { CLAMP }
   <Scalar> magfilter { BILINEAR }
   <Scalar> uv-name { UVTex }
   <Scalar> envtype { modulate }
 }
 <Texture> t_south.png {
-  "textures/t_south.png"
+  "data/textures/t_south.png"
   <Scalar> wrap    { CLAMP }
   <Scalar> magfilter { BILINEAR }
   <Scalar> uv-name { UVTex }
   <Scalar> envtype { modulate }
 }
 <Texture> t_up.png {
-  "textures/t_up.png"
+  "data/textures/t_up.png"
   <Scalar> wrap    { CLAMP }
   <Scalar> magfilter { BILINEAR }
   <Scalar> uv-name { UVTex }
   <Scalar> envtype { modulate }
 }
 <Texture> t_east.png {
-  "textures/t_east.png"
+  "data/textures/t_east.png"
   <Scalar> wrap    { CLAMP }
   <Scalar> magfilter { BILINEAR }
   <Scalar> uv-name { UVTex }
   <Scalar> envtype { modulate }
 }
 <Texture> t_west.png {
-  "textures/t_west.png"
+  "data/textures/t_west.png"
   <Scalar> wrap    { CLAMP }
   <Scalar> magfilter { BILINEAR }
   <Scalar> uv-name { UVTex }
   <Scalar> envtype { modulate }
 }
 <Texture> down.png {
-  "textures/down.png"
+  "data/textures/down.png"
   <Scalar> wrap    { CLAMP }
   <Scalar> magfilter { BILINEAR }
   <Scalar> uv-name { UVTex }
