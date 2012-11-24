@@ -349,7 +349,8 @@ class World(keyTracker):
         startpos = self.ralph.getPos()
 
         # If a move-key is pressed, move ralph in the specified direction.
-        # Adding, subtracting and multiplying booleans for the keys here.
+        # Adding, subtracting and multiplying booleans (which get a value of 0 or 1)
+        # for the keys here.
         forwardMove=self.keyMap["forward"]-.5*self.keyMap["backward"]
         rightMove=.5*(self.keyMap["right"]-self.keyMap["left"])
         
